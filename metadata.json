@@ -1,0 +1,5 @@
+{
+  "name": "Neon Snake",
+  "description": "A retro-arcade neon themed Hungry Snake game.",
+  "requestFramePermissions": []
+}
